@@ -1,1 +1,1 @@
-# Machine-learning-for-classification-of-anime-style-characters-or-real-world-person
+This is a project which using machine learning to classify the anime style characters or real world person
